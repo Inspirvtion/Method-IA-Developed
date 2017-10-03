@@ -1,0 +1,11 @@
+C:\Users\vm_42_000\SkyDrive\Documents\FTP ENI\Chapitres relus\7-NeuralNetwork\NeuralNetwork\NeuralNetworkProgram\bin\Debug\NeuralNetworkProgram.exe.config
+C:\Users\a\Desktop\Programmation\ApplicationIA\NeuralNetwork\NeuralNetworkProgram\bin\Debug\xor.txt
+C:\Users\a\Desktop\Programmation\ApplicationIA\NeuralNetwork\NeuralNetworkProgram\bin\Debug\abalone_norm.txt
+C:\Users\a\Desktop\Programmation\ApplicationIA\NeuralNetwork\NeuralNetworkProgram\bin\Debug\NeuralNetworkProgram.exe.config
+C:\Users\a\Desktop\Programmation\ApplicationIA\NeuralNetwork\NeuralNetworkProgram\bin\Debug\NeuralNetworkProgram.exe
+C:\Users\a\Desktop\Programmation\ApplicationIA\NeuralNetwork\NeuralNetworkProgram\bin\Debug\NeuralNetworkProgram.pdb
+C:\Users\a\Desktop\Programmation\ApplicationIA\NeuralNetwork\NeuralNetworkProgram\bin\Debug\NeuralNetworkPCL.dll
+C:\Users\a\Desktop\Programmation\ApplicationIA\NeuralNetwork\NeuralNetworkProgram\bin\Debug\NeuralNetworkPCL.pdb
+C:\Users\a\Desktop\Programmation\ApplicationIA\NeuralNetwork\NeuralNetworkProgram\obj\Debug\NeuralNetworkProgram.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\Programmation\ApplicationIA\NeuralNetwork\NeuralNetworkProgram\obj\Debug\NeuralNetworkProgram.exe
+C:\Users\a\Desktop\Programmation\ApplicationIA\NeuralNetwork\NeuralNetworkProgram\obj\Debug\NeuralNetworkProgram.pdb

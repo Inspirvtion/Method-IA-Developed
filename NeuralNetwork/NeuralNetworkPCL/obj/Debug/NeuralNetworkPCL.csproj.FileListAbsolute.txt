@@ -1,0 +1,5 @@
+C:\Users\a\Desktop\Programmation\ApplicationIA\NeuralNetwork\NeuralNetworkPCL\bin\Debug\NeuralNetworkPCL.dll
+C:\Users\a\Desktop\Programmation\ApplicationIA\NeuralNetwork\NeuralNetworkPCL\bin\Debug\NeuralNetworkPCL.pdb
+C:\Users\a\Desktop\Programmation\ApplicationIA\NeuralNetwork\NeuralNetworkPCL\obj\Debug\NeuralNetworkPCL.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\Programmation\ApplicationIA\NeuralNetwork\NeuralNetworkPCL\obj\Debug\NeuralNetworkPCL.dll
+C:\Users\a\Desktop\Programmation\ApplicationIA\NeuralNetwork\NeuralNetworkPCL\obj\Debug\NeuralNetworkPCL.pdb

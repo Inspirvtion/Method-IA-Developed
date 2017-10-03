@@ -1,0 +1,10 @@
+/home/herve/Bureau/Compétences/IA/Livre/NeuralNetwork/NeuralNetworkProgram/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/herve/Bureau/Compétences/IA/Livre/NeuralNetwork/NeuralNetworkProgram/bin/Debug/abalone_norm.txt
+/home/herve/Bureau/Compétences/IA/Livre/NeuralNetwork/NeuralNetworkProgram/bin/Debug/xor.txt
+/home/herve/Bureau/Compétences/IA/Livre/NeuralNetwork/NeuralNetworkProgram/bin/Debug/NeuralNetworkProgram.exe.config
+/home/herve/Bureau/Compétences/IA/Livre/NeuralNetwork/NeuralNetworkProgram/bin/Debug/NeuralNetworkProgram.exe.mdb
+/home/herve/Bureau/Compétences/IA/Livre/NeuralNetwork/NeuralNetworkProgram/bin/Debug/NeuralNetworkProgram.exe
+/home/herve/Bureau/Compétences/IA/Livre/NeuralNetwork/NeuralNetworkProgram/obj/Debug/NeuralNetworkProgram.exe
+/home/herve/Bureau/Compétences/IA/Livre/NeuralNetwork/NeuralNetworkProgram/obj/Debug/NeuralNetworkProgram.exe.mdb
+/home/herve/Bureau/Compétences/IA/Livre/NeuralNetwork/NeuralNetworkProgram/bin/Debug/NeuralNetworkPCL.dll
+/home/herve/Bureau/Compétences/IA/Livre/NeuralNetwork/NeuralNetworkProgram/bin/Debug/NeuralNetworkPCL.dll.mdb

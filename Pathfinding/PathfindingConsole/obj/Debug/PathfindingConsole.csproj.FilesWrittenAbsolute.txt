@@ -1,0 +1,11 @@
+/home/herve/Bureau/Compétences/IA/Livre/Pathfinding/PathfindingConsole/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/herve/Bureau/Compétences/IA/Livre/Pathfinding/PathfindingConsole/bin/Debug/PathfindingConsole.exe.config
+/home/herve/Bureau/Compétences/IA/Livre/Pathfinding/PathfindingConsole/bin/Debug/PathfindingConsole.exe.mdb
+/home/herve/Bureau/Compétences/IA/Livre/Pathfinding/PathfindingConsole/bin/Debug/PathfindingConsole.exe
+/home/herve/Bureau/Compétences/IA/Livre/Pathfinding/PathfindingConsole/obj/Debug/PathfindingConsole.exe
+/home/herve/Bureau/Compétences/IA/Livre/Pathfinding/PathfindingConsole/obj/Debug/PathfindingConsole.exe.mdb
+/home/herve/Bureau/Compétences/IA/Livre/Pathfinding/PathfindingConsole/bin/Debug/PathfindingPCL.dll
+/home/herve/Bureau/Compétences/IA/Livre/Pathfinding/PathfindingConsole/bin/Debug/PathfindingPCL.dll.mdb
+/home/herve/Bureau/Compétences/IA/Livre/Pathfinding/PathfindingConsole/bin/Debug/PathfindingConsole.pdb
+/home/herve/Bureau/Compétences/IA/Livre/Pathfinding/PathfindingConsole/obj/Debug/PathfindingConsole.pdb
+/home/herve/Bureau/Compétences/IA/Livre/Pathfinding/PathfindingConsole/bin/Debug/PathfindingPCL.pdb

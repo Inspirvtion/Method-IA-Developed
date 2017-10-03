@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="PathfindingPCL/PathfindingPCL.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PathfindingPCL/Algorithms/Dijkstra.cs">
+    <Files>
+      <File FileName="PathfindingConsole/MainProgram.cs" Line="99" Column="32" />
+      <File FileName="PathfindingPCL/Node.cs" Line="1" Column="1" />
+      <File FileName="PathfindingPCL/Arc.cs" Line="1" Column="1" />
+      <File FileName="PathfindingPCL/Graph.cs" Line="1" Column="1" />
+      <File FileName="PathfindingPCL/IHM.cs" Line="1" Column="1" />
+      <File FileName="PathfindingPCL/Algorithm.cs" Line="1" Column="1" />
+      <File FileName="PathfindingPCL/Algorithms/DepthFirst.cs" Line="1" Column="1" />
+      <File FileName="PathfindingPCL/Algorithms/BreadthFirst.cs" Line="1" Column="1" />
+      <File FileName="PathfindingPCL/Algorithms/BellmanFord.cs" Line="1" Column="1" />
+      <File FileName="PathfindingPCL/Algorithms/Dijkstra.cs" Line="48" Column="6" />
+      <File FileName="PathfindingPCL/Algorithms/AStar.cs" Line="1" Column="1" />
+      <File FileName="PathfindingPCL/MapProblem/TileType.cs" Line="1" Column="1" />
+      <File FileName="PathfindingPCL/MapProblem/Tile.cs" Line="1" Column="1" />
+      <File FileName="PathfindingPCL/MapProblem/Map.cs" Line="1" Column="1" />
+      <File FileName="PathfindingConsole/App.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
