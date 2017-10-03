@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="MultiAgentSystemPCL/MultiAgentSystemPCL.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiAgentSystemPCL/Fish/FishAgent.cs">
+    <Files>
+      <File FileName="WasteSorting/MainWindow.xaml" Line="7" Column="1" />
+      <File FileName="GameOfLife/MainWindow.xaml" Line="1" Column="1" />
+      <File FileName="GameOfLife/App.xaml" Line="1" Column="1" />
+      <File FileName="Fish/MainWindow.xaml" Line="1" Column="1" />
+      <File FileName="Fish/App.xaml" Line="1" Column="1" />
+      <File FileName="WasteSorting/App.xaml" Line="1" Column="1" />
+      <File FileName="MultiAgentSystemPCL/ObjectInWorld.cs" Line="16" Column="24" />
+      <File FileName="MultiAgentSystemPCL/Fish/BadZone.cs" Line="15" Column="71" />
+      <File FileName="MultiAgentSystemPCL/Fish/FishAgent.cs" Line="131" Column="73" />
+      <File FileName="MultiAgentSystemPCL/Fish/Ocean.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
