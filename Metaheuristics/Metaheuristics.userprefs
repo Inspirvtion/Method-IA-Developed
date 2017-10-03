@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="MetaheuristicsPCL/MetaheuristicsPCL.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MetaheuristicsMainProgram/Program.cs">
+    <Files>
+      <File FileName="MetaheuristicsPCL/Algorithms/GreedyAlgorithm.cs" Line="10" Column="49" />
+      <File FileName="MetaheuristicsPCL/Base/ISolution.cs" Line="6" Column="56" />
+      <File FileName="MetaheuristicsPCL/Base/IProblem.cs" Line="12" Column="112" />
+      <File FileName="MetaheuristicsPCL/Base/IHM.cs" Line="7" Column="87" />
+      <File FileName="MetaheuristicsPCL/Base/Algorithm.cs" Line="8" Column="88" />
+      <File FileName="MetaheuristicsPCL/Algorithms/GradientDescentAlgorithm.cs" Line="27" Column="18" />
+      <File FileName="MetaheuristicsPCL/Algorithms/TabuSearchAlgorithm.cs" Line="20" Column="65" />
+      <File FileName="MetaheuristicsPCL/Algorithms/SimulatedAnnealingAlgorithm.cs" Line="31" Column="29" />
+      <File FileName="MetaheuristicsPCL/Algorithms/ParticleSwarmOptimizationAlgorithm.cs" Line="33" Column="80" />
+      <File FileName="MetaheuristicsPCL/KnapsackProblem/Box.cs" Line="19" Column="72" />
+      <File FileName="MetaheuristicsPCL/KnapsackProblem/KnapsackSolution.cs" Line="44" Column="37" />
+      <File FileName="MetaheuristicsPCL/KnapsackProblem/KnapsackProblem.cs" Line="97" Column="91" />
+      <File FileName="MetaheuristicsPCL/KnapsackProblem/AlgorithmsForKnapsack/GreedyAlgorithmForKnapsack.cs" Line="31" Column="98" />
+      <File FileName="MetaheuristicsPCL/KnapsackProblem/AlgorithmsForKnapsack/GradientDescentForKnapsack.cs" Line="30" Column="3" />
+      <File FileName="MetaheuristicsPCL/KnapsackProblem/AlgorithmsForKnapsack/TabuSearchForKnapsack.cs" Line="32" Column="78" />
+      <File FileName="MetaheuristicsPCL/KnapsackProblem/AlgorithmsForKnapsack/SimulatedAnnealingForKnapsack.cs" Line="40" Column="96" />
+      <File FileName="MetaheuristicsPCL/KnapsackProblem/AlgorithmsForKnapsack/ParticleSwarmOptimizationForKnapsack.cs" Line="72" Column="87" />
+      <File FileName="MetaheuristicsMainProgram/Program.cs" Line="26" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

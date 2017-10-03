@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="MazeProgram/Program.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GeneticAlgorithm/MazeProblem/MazeIndividual.cs">
+    <Files>
+      <File FileName="MazeProgram/Program.cs" Line="1" Column="1" />
+      <File FileName="GeneticAlgorithm/Parameters.cs" Line="1" Column="1" />
+      <File FileName="GeneticAlgorithm/IGene.cs" Line="1" Column="1" />
+      <File FileName="GeneticAlgorithm/Individual.cs" Line="1" Column="1" />
+      <File FileName="GeneticAlgorithm/IndividualFactory.cs" Line="11" Column="1" />
+      <File FileName="GeneticAlgorithm/IIHM.cs" Line="1" Column="1" />
+      <File FileName="GeneticAlgorithm/EvolutionaryProcess.cs" Line="1" Column="1" />
+      <File FileName="GeneticAlgorithm/MazeProblem/Maze.cs" Line="179" Column="8" />
+      <File FileName="GeneticAlgorithm/MazeProblem/MazeGene.cs" Line="30" Column="77" />
+      <File FileName="GeneticAlgorithm/MazeProblem/MazeIndividual.cs" Line="1" Column="3" />
+      <File FileName="GeneticAlgorithm/TSPProblem/TSP.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

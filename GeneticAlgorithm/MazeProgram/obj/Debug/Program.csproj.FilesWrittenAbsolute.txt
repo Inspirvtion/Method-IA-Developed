@@ -1,0 +1,8 @@
+/home/herve/Bureau/Compétences/IA/Livre/GeneticAlgorithm/MazeProgram/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/herve/Bureau/Compétences/IA/Livre/GeneticAlgorithm/MazeProgram/bin/Debug/MazeProgram.exe.config
+/home/herve/Bureau/Compétences/IA/Livre/GeneticAlgorithm/MazeProgram/bin/Debug/MazeProgram.exe.mdb
+/home/herve/Bureau/Compétences/IA/Livre/GeneticAlgorithm/MazeProgram/bin/Debug/MazeProgram.exe
+/home/herve/Bureau/Compétences/IA/Livre/GeneticAlgorithm/MazeProgram/obj/Debug/MazeProgram.exe
+/home/herve/Bureau/Compétences/IA/Livre/GeneticAlgorithm/MazeProgram/obj/Debug/MazeProgram.exe.mdb
+/home/herve/Bureau/Compétences/IA/Livre/GeneticAlgorithm/MazeProgram/bin/Debug/GeneticAlgorithm.dll
+/home/herve/Bureau/Compétences/IA/Livre/GeneticAlgorithm/MazeProgram/bin/Debug/GeneticAlgorithm.dll.mdb

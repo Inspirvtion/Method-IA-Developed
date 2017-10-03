@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaheuristicsPCL", "MetaheuristicsPCL\MetaheuristicsPCL.csproj", "{4E752965-2455-4A25-A1C8-5CAD38FDBDFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaheuristicsMainProgram", "MetaheuristicsMainProgram\MetaheuristicsMainProgram.csproj", "{EA78D85C-1D1D-42A0-8307-78F52961916B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E752965-2455-4A25-A1C8-5CAD38FDBDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E752965-2455-4A25-A1C8-5CAD38FDBDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E752965-2455-4A25-A1C8-5CAD38FDBDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E752965-2455-4A25-A1C8-5CAD38FDBDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA78D85C-1D1D-42A0-8307-78F52961916B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA78D85C-1D1D-42A0-8307-78F52961916B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA78D85C-1D1D-42A0-8307-78F52961916B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA78D85C-1D1D-42A0-8307-78F52961916B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

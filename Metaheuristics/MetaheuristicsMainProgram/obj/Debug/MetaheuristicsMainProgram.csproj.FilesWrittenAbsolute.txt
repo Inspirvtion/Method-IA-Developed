@@ -1,0 +1,11 @@
+/home/herve/Bureau/Compétences/IA/Livre/Metaheuristics/MetaheuristicsMainProgram/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/herve/Bureau/Compétences/IA/Livre/Metaheuristics/MetaheuristicsMainProgram/bin/Debug/MetaheuristicsMainProgram.exe.config
+/home/herve/Bureau/Compétences/IA/Livre/Metaheuristics/MetaheuristicsMainProgram/bin/Debug/MetaheuristicsMainProgram.exe.mdb
+/home/herve/Bureau/Compétences/IA/Livre/Metaheuristics/MetaheuristicsMainProgram/bin/Debug/MetaheuristicsMainProgram.pdb
+/home/herve/Bureau/Compétences/IA/Livre/Metaheuristics/MetaheuristicsMainProgram/bin/Debug/MetaheuristicsMainProgram.exe
+/home/herve/Bureau/Compétences/IA/Livre/Metaheuristics/MetaheuristicsMainProgram/obj/Debug/MetaheuristicsMainProgram.exe
+/home/herve/Bureau/Compétences/IA/Livre/Metaheuristics/MetaheuristicsMainProgram/obj/Debug/MetaheuristicsMainProgram.exe.mdb
+/home/herve/Bureau/Compétences/IA/Livre/Metaheuristics/MetaheuristicsMainProgram/obj/Debug/MetaheuristicsMainProgram.pdb
+/home/herve/Bureau/Compétences/IA/Livre/Metaheuristics/MetaheuristicsMainProgram/bin/Debug/MetaheuristicsPCL.dll
+/home/herve/Bureau/Compétences/IA/Livre/Metaheuristics/MetaheuristicsMainProgram/bin/Debug/MetaheuristicsPCL.dll.mdb
+/home/herve/Bureau/Compétences/IA/Livre/Metaheuristics/MetaheuristicsMainProgram/bin/Debug/MetaheuristicsPCL.pdb
